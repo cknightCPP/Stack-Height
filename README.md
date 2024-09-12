@@ -1,0 +1,1 @@
+Code takes 2D Building Coordinates, Stack specs, and receptor locations to determine what the concentration is with string method. All numeriical, results should be taken w a grain of salt as seen in the readme.
